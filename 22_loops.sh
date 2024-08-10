@@ -48,6 +48,6 @@ do
     # Inner loop
     for j in {a..c}
     do
-        echo "  Inner loop iteration $j"
+        echo "Inner loop iteration $j"
     done
 done
