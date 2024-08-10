@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 touch filename          # Create an empty file
 mkdir dirname           # Create a directory
 mkdir -p parent/child   # Create nested directories

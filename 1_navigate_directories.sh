@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 cd -       # Switch to the previous directory
 cd ~       # Go to the home directory
 cd ..      # Go up one directory level

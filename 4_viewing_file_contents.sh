@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 cat filename       # View file contents
 less filename      # View file contents one page at a time
 head -n 10 filename # View the first 10 lines of a file

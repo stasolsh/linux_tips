@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 command > file          # Redirect standard output to a file
 command >> file         # Append standard output to a file
 command 2> file         # Redirect standard error to a file
