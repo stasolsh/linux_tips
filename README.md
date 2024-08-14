@@ -21,6 +21,7 @@
 20. [Pipes to combine commands](20_pipes_to_combine_commands.sh)
 21. [Conditional logic](21_conditional_logic.sh)
 22. [Loops](22_loops.sh)
+23. [Information about users](23_information_about_users.sh)
 
 
 
