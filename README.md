@@ -1,4 +1,5 @@
 # Linux Tips Content:
+0. [Get help](0_get_help.sh)
 1. [Navigate directories](1_navigate_directories.sh)
 2. [List files](2_list_files.sh)
 3. [Creating and removing files](3_creating_and_removing_files.sh)
