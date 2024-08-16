@@ -2,7 +2,7 @@
 0. [Get help](0_get_help.sh)
 1. [Navigate directories](1_navigate_directories.sh)
 2. [List files](2_list_files.sh)
-3. [Creating and removing files](3_creating_and_removing_files.sh)
+3. [Creating moving_and removing files](3_creating_moving_and_removing_files.sh)
 4. [Viewing file contents](4_viewing_file_contents.sh)
 5. [Editing files](5_editing_files.sh)
 6. [Search for pattern](6_search_for_pattern.sh)
